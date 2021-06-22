@@ -69,6 +69,7 @@ def multiplos_3_o_5(num):
 print("---------")
 print("PREGUNTA 4")
 print("La suma es: ",multiplos_3_o_5(1000))
+print("La suma es: ",multiplos_3_o_5(1000000000))
 
 import math
 
