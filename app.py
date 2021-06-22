@@ -7,7 +7,7 @@ def suma(n1, n2):
     return 0
 
 print("PREGUNTA 1")
-print(suma(5,4))
+print("suma",suma(5,4))
 
 def mas_ocurrencias(lista):
     # Inicialmente se utilizara 2 variables, ocurrencias(c) y numero(num)
@@ -94,19 +94,19 @@ print("Cuadrado",area_cuadrado(3))
 
 print("     ")
 
-print("Círculo",area_circulo(4))
-print("Círculo",area_circulo(5))
-print("Círculo",area_circulo(6))
+print("Circulo",area_circulo(4))
+print("Circulo",area_circulo(5))
+print("Circulo",area_circulo(6))
 
 print("     ")
 
-print("Triángulo",area_triangulo(7,8))
-print("Triángulo",area_triangulo(8,9))
-print("Triángulo",area_triangulo(9,10))
+print("Triangulo",area_triangulo(7,8))
+print("Triangulo",area_triangulo(8,9))
+print("Triangulo",area_triangulo(9,10))
 
 print("     ")
 
-print("Rectángulo",area_rectangulo(10,11))
-print("Rectángulo",area_rectangulo(11,12))
-print("Rectángulo",area_rectangulo(12,13))
+print("Rectangulo",area_rectangulo(10,11))
+print("Rectangulo",area_rectangulo(11,12))
+print("Rectangulo",area_rectangulo(12,13))
 
